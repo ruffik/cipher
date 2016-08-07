@@ -1,3 +1,3 @@
 #Cipher
-A simple exapmle of encoding text
+A simple example of encoding and decoding text input
 ----
